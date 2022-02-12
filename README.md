@@ -2,7 +2,7 @@
 #### This is a Clone of Flipkart Homepage, which is created using HTML &amp; CSS.
 
 ## Table of contents
-* [Intriduction](#Introduction)
+* [Introduction](#Introduction)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
 
