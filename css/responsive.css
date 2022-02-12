@@ -1,0 +1,36 @@
+ @media screen and (max-width:1000px) {
+    
+     nav{
+         flex-direction: column;
+     }
+     .logo{
+        justify-content: center;
+        margin: 12px 0px;
+
+     }
+     header{
+         height:149px ;
+     }
+     nav ul{
+        justify-content: center;
+        height: 29px;
+     }
+     .searchbar{
+         justify-content: center;
+         
+     }
+     .searchbar input{
+        margin: 0 16px;
+
+     }
+     .slider{
+        height: 27vh;
+     }
+     .card-item img{
+        width: 125px;
+     }
+     .cards{
+        overflow: scroll;
+     }
+     
+ }
